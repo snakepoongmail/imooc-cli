@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "bin": {
-    "imooc-test": "bin/index.js"
+    "imooc-cli": "bin/index.js"
   },
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "imooc-cli-lib":"^1.0.0"
+    "imooc-cli-lib": "^1.0.0"
   }
 }
