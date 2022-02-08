@@ -1,3 +1,4 @@
 #!/usr/bin/env node
-
-console.log('imooc test');
+const lib = require('imooc-cli-lib');
+console.log(lib);
+console.log('imooc cli !!!');
